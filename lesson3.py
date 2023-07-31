@@ -152,3 +152,5 @@ Output: 2 (-1 < 5, 2 < 3)"""
 #     if some_list[ind - 1] < some_list[ind]:
 #         amount += 1
 # print(amount)
+
+
